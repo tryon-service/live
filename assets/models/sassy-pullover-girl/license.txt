@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sassy Pullover Girl
+* source:	https://sketchfab.com/3d-models/sassy-pullover-girl-be6aed83ba224cf597fccc1e6562dc45
+* author:	Thomas Straetmans (https://sketchfab.com/Thomas_Straetmans)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sassy Pullover Girl" (https://sketchfab.com/3d-models/sassy-pullover-girl-be6aed83ba224cf597fccc1e6562dc45) by Thomas Straetmans (https://sketchfab.com/Thomas_Straetmans) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
